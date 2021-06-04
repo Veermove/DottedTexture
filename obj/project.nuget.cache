@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "af/WB9vRnritbPTLRBDfLIz3E6gLxbJwTgQqCnzsMf3G35reXUpxKPHdRqIh0vIA91QQ1BzpuzKm5W0SZ58k1g==",
+  "dgSpecHash": "eeSK46J3nys7EuKt+TVyfut3IeUJIhhY9Ny6I94Zm0mdg05Qu31V6B54HX81xC0ouH5o+hPZb+CvVF+YvEzfIQ==",
   "success": true,
   "projectFilePath": "/mnt/gramofon/Csharp/Texture/Texture.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/veermove/.nuget/packages/microsoft.netcore.platforms/5.0.0/microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "/home/veermove/.nuget/packages/microsoft.win32.systemevents/5.0.0/microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "/home/veermove/.nuget/packages/system.drawing.common/5.0.2/system.drawing.common.5.0.2.nupkg.sha512"
+  ],
   "logs": []
 }

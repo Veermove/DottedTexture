@@ -1,15 +1,15 @@
-﻿using System;
-using System.Drawing;
-// Adding reference to assembly:
-// Dotnet add package System.Drawing.Common
+using System;
 
-class TextureGen
+class main
 {
-    const int xSize = 1000;
-    const int ySize = 1000;
+    public const int xSize = 1000;
+    public const int ySize = 1000;
 
-    public void Draw()
+    public const int PointsAmount = 50;
+    public static void Main(String[] args)
     {
-        var bitmap = new Bitmap(xSize, ySize);
+        TextureGen temp = new TextureGen();
+        temp.Draw();
+        Console.WriteLine("Done!");
     }
 }
